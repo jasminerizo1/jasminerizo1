@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jasminerizo1
+- 👀 I’m interested in books
+- 🌱 I’m currently learning CS50X
+- How to reach me: 0430957jr@gmail.com
